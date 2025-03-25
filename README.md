@@ -14,8 +14,6 @@ Projekt sklepu internetowego prezentującego różne oferty, stworzony za pomoc�
 ├── index.html        # Strona główna
 ├── styles.css        # Stylizacja CSS
 ├── script.js         # Skrypt JavaScript
-├── images/           # Folder na obrazy
-└── data/             # Pliki JSON (opcjonalnie)
 ```
 
 ## 🔧 Instalacja
