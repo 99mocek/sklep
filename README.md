@@ -1,48 +1,44 @@
-Sklep z Ofertami
+# Sklep z Ofertami
 
 Projekt sklepu internetowego prezentującego różne oferty, stworzony za pomocą HTML, CSS i JavaScript.
 
-📌 Funkcjonalności
+## 📌 Funkcjonalności
+- ✅ Wyświetlanie listy ofert
+- 🔍 Filtrowanie i sortowanie ofert
+- 🛒 Dodawanie ofert do koszyka
+- 📱 Responsywny design
 
-Wyświetlanie listy ofert
-
-Filtrowanie i sortowanie ofert
-
-Dodawanie ofert do koszyka
-
-Responsywny design
-
-📁 Struktura projektu
-
+## 📁 Struktura projektu
+```bash
 /sklep-oferty/
-│-- index.html        # Strona główna
-│-- styles.css        # Stylizacja CSS
-│-- script.js         # Skrypt JavaScript
+├── index.html        # Strona główna
+├── styles.css        # Stylizacja CSS
+├── script.js         # Skrypt JavaScript
+├── images/           # Folder na obrazy
+└── data/             # Pliki JSON (opcjonalnie)
+```
 
-🔧 Instalacja
-
-Pobierz repozytorium:
-
+## 🔧 Instalacja
+```bash
 git clone https://github.com/twoj-uzytkownik/sklep-oferty.git
+cd sklep-oferty
+open index.html
+```
 
-Otwórz plik index.html w przeglądarce.
+## 🌟 Technologie
+```bash
+- HTML5       # Struktura strony
+- CSS3        # Stylizacja i animacje
+- JavaScript  # Obsługa interakcji użytkownika
+```
 
-🌟 Technologie
+## 🖥 Podgląd
+Możesz zobaczyć wersję demo pod adresem: [Twoja Strona](https://twojastrona.com)
 
-HTML - struktura strony
-
-CSS - stylizacja i animacje
-
-JavaScript - obsługa interakcji użytkownika
-
-🖥 Podgląd
-
-Możesz zobaczyć wersję demo pod adresem: Twoja Strona
-
-📜 Licencja
-
+## 📜 Licencja
 Projekt jest dostępny na licencji MIT.
 
-📬 Kontakt
+---
+### 📬 Kontakt
+Jeśli masz pytania lub sugestie, napisz do mnie na [help@mocek.pl](mailto:help@mocek.pl).
 
-Jeśli masz pytania lub sugestie, napisz do mnie na help@mocek.pl
